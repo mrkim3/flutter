@@ -33,8 +33,8 @@ void main() {
                   children: [
                     Text("Hey, Selena",
                     style: TextStyle(
-                      color: Colors.white
-                      fontSize: 48
+                      color: Colors.white,
+                      fontSize: 48,
                     ),),
                     Text("Welcome back",
                     style: TextStyle(
